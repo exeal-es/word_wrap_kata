@@ -1,0 +1,12 @@
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/bin/Debug/net5.0/Wrapper.deps.json
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/bin/Debug/net5.0/Wrapper.dll
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/bin/Debug/net5.0/ref/Wrapper.dll
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/bin/Debug/net5.0/Wrapper.pdb
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/obj/Debug/net5.0/Wrapper.csproj.AssemblyReference.cache
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/obj/Debug/net5.0/Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/obj/Debug/net5.0/Wrapper.AssemblyInfoInputs.cache
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/obj/Debug/net5.0/Wrapper.AssemblyInfo.cs
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/obj/Debug/net5.0/Wrapper.csproj.CoreCompileInputs.cache
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/obj/Debug/net5.0/Wrapper.dll
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/obj/Debug/net5.0/ref/Wrapper.dll
+/Users/raul/repos/exeal/word_wrap_kata/Wrapper/obj/Debug/net5.0/Wrapper.pdb
